@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: rgb(138, 144, 203);
+}
+
+.header {
+  font-family: sans-serif;
+  text-align: center;
+  color: rgb(237, 238, 243);
+  text-shadow: 2px 2px 5px blueviolet;
+}
+
+.appBar {
+  color: white;
+}
+.menu_items {
+  font-family: sans-serif;
+  color: blueviolet;
+  font-weight: 800;
+}
+
+.submit_button {
+  cursor: pointer;
+  color: white;
+  outline: none;
+  border: none;
+  font-weight: 700;
+  border-radius: 0.2vw;
+  padding-left: 2rem;
+  padding-right: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  background-color: rgba(60, 212, 22, 0.753);
+}
